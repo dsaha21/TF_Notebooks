@@ -2,5 +2,4 @@
 Stepwise notebooks on Tensorflow and Deep Learning
 
 # BASICS 
-1. Intro to Tensorflow 
-   Exercises
+1. Intro to Tensorflow --> Codes and Exercises
